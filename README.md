@@ -8,7 +8,7 @@ Attendance Time - Collection of how long each member attended each meeting
 
 Attendance Any - Meetings that the member attended for any length of time
 
-Attendance Full - Meetings the member attended for <minimum time> (All times are in minutes)
+Attendance Full - Meetings the member attended for "minimum time" (All times are in minutes)
 
 eg
 ```
